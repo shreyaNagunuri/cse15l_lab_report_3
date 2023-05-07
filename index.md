@@ -212,7 +212,7 @@ Another example be shown with a open index for when things should be made.
 /Users/shreyanagunuri/docsearch/technical/government/Env_Prot_Agen/tech_adden.txt
 /Users/shreyanagunuri/docsearch/technical/government/Alcohol_Problems
 ```
-This example is unique because it shows what happens if you use a plus sign with a specific days number. It will show anything made more 3 agos. This open index will be useful 
+This example is unique because it shows what happens if you use a plus sign with a specific days number. It will show anything made more 3 days ago. This open index will be useful 
 in seeing what files can be deleted from a certain timepoint. 
 
 Link to Source: https://linuxize.com/post/how-to-find-files-in-linux-using-the-command-line/#find-files-by-modification-date
